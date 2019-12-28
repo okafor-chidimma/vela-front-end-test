@@ -1,0 +1,27 @@
+/* Side Bar Component Styling */
+.section__side-bar{
+  width: 25%;color: #647787;
+  background-color: white;
+}
+.side-bar__button{
+  background: #27AE60;
+  border-radius: 2rem;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: 'Roboto';
+}
+.side-bar__button:hover{
+  cursor: pointer;
+}
+.side-bar__div,.side-bar__li{
+  color: #647787;
+}
+.side-bar__li{
+  list-style-type: none;
+}
+.side-bar__li:hover{
+  background:rgba(24, 117, 240, 0.1);
+  cursor: pointer;
+  border-left: 4px #1875F0 solid;
+}
