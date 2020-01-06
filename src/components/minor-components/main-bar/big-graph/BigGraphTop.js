@@ -6,7 +6,7 @@ import { BigGraphButton } from './BigGraphButton';
 export const BigGraphTop = () => (
   <div className="flex mr2 ml2 mb2 mt2">
     <div className="flex flex-center align-center mr6">
-      <h2 className="mr6 ml0 mt0 mb0 big-graph__h2">Today: 5, Aug 2018</h2>
+      <h2 className="ml0 mt0 mb0 big-graph__h2">Today: 5, Aug 2018</h2>
     </div>
     <div className="flex pl1 pr1 pt1 pb1">
       <div className="mt0 mb0 ml4 mr4">
